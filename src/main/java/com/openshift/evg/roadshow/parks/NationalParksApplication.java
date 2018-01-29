@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 /**
  * Main application launcher
- *
+ * ^^
  * Created by jmorales on 24/08/16.
  */
 @SpringBootApplication
